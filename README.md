@@ -1,14 +1,14 @@
-# EDD2020 (Endoscopy Disease Detection Challenge): Endoscopy Computer Vision Challenges on Segmentation and Detection (EndoCV2020)
+# EDD2020: Endoscopy Computer Vision Challenges on Segmentation and Detection (EndoCV2020)
 
 #### About:
 Endoscopy is a widely used clinical procedure for the early detection of numerous cancers (e.g., nasopharyngeal, oesophageal adenocarcinoma, gastric, colorectal cancers, bladder cancer etc.), therapeutic procedures and minimally invasive surgery (e.g., laparoscopy). During this procedure an endoscope is used; a long, thin, rigid or flexible tube with a light source and camera at the tip to visualise the inside of affected organs on an external screen. Quantitative clinical endoscopy analysis is immensely challenging due to inevitable video frame quality degradation from various imaging artefacts to the non-planar geometries and deformations of organs.
 
 Sub-challenge I:  Endoscopy Artefact Detection and Segmentation (EAD2020)
-Sub-challenge II: Endoscopy Disease Detection and Segmentation (EDD2020)
+Sub-challenge II: **Endoscopy Disease Detection and Segmentation (EDD2020)**
 
 Each sub-challenge consists of detection, semantic segmentation and out-of-sample generalisation tasks for each unique dataset.
 
-- Multi-class artefact detection: Localization of bounding boxes and class labels for 7  artefact classes for given frames.
+- Multi-class artefact detection: Localization of bounding boxes and class labels for 5  disease/pre-cancerous classes for given frames.
 
 - Region segmentation: Precise boundary delineation of detected artefacts. 
 
@@ -25,7 +25,7 @@ Each sub-challenge consists of detection, semantic segmentation and out-of-sampl
 
 **ClassLabels:** ``{'BE', 'suspicious', 'HGD' , 'cancer'  'Polyp'}``
 
-#### Please check EAD2019 repo for other usage
+#### Please check EAD2019 repo for other usage (most part of software can also be used for EAD2020)
 
 - [annotation file format converters](https://github.com/sharibox/EAD2019/tree/master/fileFormatConverters)
 
