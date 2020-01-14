@@ -4,6 +4,7 @@
 Endoscopy is a widely used clinical procedure for the early detection of numerous cancers (e.g., nasopharyngeal, oesophageal adenocarcinoma, gastric, colorectal cancers, bladder cancer etc.), therapeutic procedures and minimally invasive surgery (e.g., laparoscopy). During this procedure an endoscope is used; a long, thin, rigid or flexible tube with a light source and camera at the tip to visualise the inside of affected organs on an external screen. Quantitative clinical endoscopy analysis is immensely challenging due to inevitable video frame quality degradation from various imaging artefacts to the non-planar geometries and deformations of organs.
 
 Sub-challenge I:  Endoscopy Artefact Detection and Segmentation (EAD2020)
+
 Sub-challenge II: **Endoscopy Disease Detection and Segmentation (EDD2020)**
 
 Each sub-challenge consists of detection, semantic segmentation and out-of-sample generalisation tasks for each unique dataset.
