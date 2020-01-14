@@ -5,7 +5,7 @@ Endoscopy is a widely used clinical procedure for the early detection of numerou
 
 Sub-challenge I:  Endoscopy Artefact Detection and Segmentation (EAD2020)
 
-Sub-challenge II: **Endoscopy Disease Detection and Segmentation (EDD2020)**
+Sub-challenge II: **[Endoscopy Disease Detection and Segmentation (EDD2020)](https://edd2020.grand-challenge.org)**
 
 Each sub-challenge consists of detection, semantic segmentation and out-of-sample generalisation tasks for each unique dataset.
 
