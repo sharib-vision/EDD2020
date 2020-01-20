@@ -1,6 +1,6 @@
 # EDD2020: Endoscopy Computer Vision Challenges on Segmentation and Detection (EndoCV2020)
 
-<p align="center"><img width="40%" src="img/edd2020_polyp_resize.png" /></p>
+<p align="center"><img width="80%" src="img/edd2020_polyp_resize.png" /></p>
 
 
 #### About:
