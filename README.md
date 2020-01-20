@@ -26,7 +26,7 @@ Each sub-challenge consists of detection, semantic segmentation and out-of-sampl
 
 [3] Both bounding boxes and sematic segmentation includes same class labels
 
-**ClassLabels:** ``{'BE', 'suspicious', 'HGD' , 'cancer'  'Polyp'}``
+**ClassLabels:** ``{'BE', 'suspicious', 'HGD' , 'cancer'  'polyp'}``
 
 #### Please check EAD2019 repo for other usage (most part of software can also be used for EAD2020)
 
