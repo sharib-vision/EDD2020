@@ -22,7 +22,7 @@ Each sub-challenge consists of detection, semantic segmentation and out-of-sampl
 
 
 #### Regarding data formats
-[1] Class labels with bounding boxes are provided for the detection task 
+[1] [Class labels](https://github.com/sharibox/EDD2020/blob/master/class_list.txt) with bounding boxes are provided for the detection task 
 
 [2] Image masks per region annotation is provided in the form of '.tif' format with 255 gray values for TPs.
 `MaskFileFormat: FileName_ClassLabel_mask.tif`
